@@ -1,0 +1,90 @@
+CRITICAL - 2022-05-15 23:14:42 --> Invalid file: template/header.php
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/heade...')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Common.php(1089): CodeIgniter\View\View->render('template/heade...', Array, true)
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\app\Controllers\Users.php(42): view('template/heade...', Array)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-15 23:14:43 --> Invalid file: template/header.php
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/heade...')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Common.php(1089): CodeIgniter\View\View->render('template/heade...', Array, true)
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\app\Controllers\Users.php(42): view('template/heade...', Array)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-15 23:14:45 --> Invalid file: template/header.php
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/heade...')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Common.php(1089): CodeIgniter\View\View->render('template/heade...', Array, true)
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\app\Controllers\Users.php(42): view('template/heade...', Array)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-15 23:15:16 --> Invalid file: template/header.php
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/heade...')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Common.php(1089): CodeIgniter\View\View->render('template/heade...', Array, true)
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\app\Controllers\Users.php(42): view('template/heade...', Array)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(832): App\Controllers\Users->index()
+#4 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-15 23:47:45 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:48:00 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:49:19 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:50:46 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:50:47 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:50:47 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:50:48 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:50:48 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-15 23:50:49 --> noauth filter must have a matching alias defined.
+#0 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('noauth')
+#1 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('noauth', 'before')
+#2 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\Chunouti\Softwares_File\xampp\htdocs\ci4\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
